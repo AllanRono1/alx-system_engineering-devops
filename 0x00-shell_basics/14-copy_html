@@ -1,0 +1,2 @@
+#!/bin/bash
+find "$src_dir" -maxdepth 1 -name "*.html" -type f -newer "$dest_dir" | xargs -I {} cp -u {} "$dest_dir"
