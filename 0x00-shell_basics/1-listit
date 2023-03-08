@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls
+=======
+Desktop Downloads Library Music Public
+>>>>>>> 0d3f77879fd3455c0e53b1a883d52407a7de0e5b
